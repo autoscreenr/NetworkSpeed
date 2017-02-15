@@ -1,0 +1,16 @@
+c:\VisualBasic_Programy\NetworkMonitor\WindowsApplication2\obj\Debug\NetworkSpeed.NetworkSpeed.resources
+c:\VisualBasic_Programy\NetworkMonitor\WindowsApplication2\obj\Debug\NetworkSpeed.Resources.resources
+c:\VisualBasic_Programy\NetworkMonitor\WindowsApplication2\obj\Debug\NetworkSpeed.vbproj.GenerateResource.Cache
+c:\VisualBasic_Programy\NetworkMonitor\WindowsApplication2\obj\Debug\NetworkSpeed.exe
+c:\VisualBasic_Programy\NetworkMonitor\WindowsApplication2\obj\Debug\NetworkSpeed.xml
+c:\VisualBasic_Programy\NetworkMonitor\WindowsApplication2\obj\Debug\NetworkSpeed.pdb
+c:\VisualBasic_Programy\NetworkMonitor\WindowsApplication2\bin\Debug\NetworkSpeed.exe.config
+c:\VisualBasic_Programy\NetworkMonitor\WindowsApplication2\bin\Debug\NetworkSpeed.exe.manifest
+c:\VisualBasic_Programy\NetworkMonitor\WindowsApplication2\bin\Debug\NetworkSpeed.application
+c:\VisualBasic_Programy\NetworkMonitor\WindowsApplication2\bin\Debug\NetworkSpeed.exe
+c:\VisualBasic_Programy\NetworkMonitor\WindowsApplication2\bin\Debug\NetworkSpeed.pdb
+c:\VisualBasic_Programy\NetworkMonitor\WindowsApplication2\bin\Debug\NetworkSpeed.xml
+c:\VisualBasic_Programy\NetworkMonitor\WindowsApplication2\bin\Debug\NetworkMonitor.dll
+c:\VisualBasic_Programy\NetworkMonitor\WindowsApplication2\obj\Debug\NetworkSpeed.exe.manifest
+c:\VisualBasic_Programy\NetworkMonitor\WindowsApplication2\obj\Debug\NetworkSpeed.application
+C:\VisualBasic_Programy\NetworkMonitor\WindowsApplication2\obj\Debug\NetworkSpeed.vbprojResolveAssemblyReference.cache
