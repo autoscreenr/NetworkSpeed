@@ -1,5 +1,4 @@
 # NetworkSpeed
-![solarized palette](https://github.com/altercation/solarized/raw/master/img/solarized-palette.png)
 ![solarized palette](https://github.com/jlicman/NetworkSpeed/blob/master/NetworkSpeed/Code/Setup.bmp)
 
 First of all is nessesary to change INI file.
