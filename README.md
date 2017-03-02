@@ -5,7 +5,7 @@
 ## An Installation ##
 The install process is quite simple. A file "Setup.exe" starts.
 
-![Install Obr1](NetworkSpeed/Manual/Install1.jpg)
+![Install Obr1](https://github.com/jlicman/NetworkSpeed/blob/master/NetworkSpeed/Manual/Install1.jpg)
 
 
 ## Steps after installation ##
